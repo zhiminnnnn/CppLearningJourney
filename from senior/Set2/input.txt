@@ -1,0 +1,15 @@
+Bernardo Silva,Manchester City, 5 2
+Youri Tielemans,Leicester City, 3 3
+Sergio Aguero,Manchester City, 9 2
+Sadio Mane,Liverpool, 7 2
+James Maddison,Leicester City, 4 2
+Raheem Sterling,Manchester City, 7 1
+Marcus Rashford,Manchester United, 6 3
+Jamie Vardy,Leicester City, 11 2
+Mohamed Salah,Liverpool, 6 3
+Christian Pulisic,Chelsea, 5 2
+Daniel James,Manchester United, 3 2
+Tammy Abraham,Chelsea, 10 2
+Anthony Martial,Manchester United, 3 3
+Mason Mount,Chelsea, 4 1
+Roberto Firmino,Liverpool, 3 0
