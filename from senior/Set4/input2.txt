@@ -1,0 +1,3 @@
+Soil Science	3	B
+Architecture	4	B
+Interior Design	4	A

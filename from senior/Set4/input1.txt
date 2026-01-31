@@ -1,0 +1,5 @@
+Computer Programming	3	C
+Network Programming	4	A
+Database Programming	4	B
+Interface Design	2	B
+Software Engineering	3	A
